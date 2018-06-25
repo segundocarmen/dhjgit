@@ -1,0 +1,10 @@
+.control_buttons{
+	display: flex;
+	justify-content: flex-end;
+}
+.control_buttons button,
+.control_buttons button:hover,
+.control_buttons button:active{
+	margin-right: 10px;
+	color: #fff;
+}

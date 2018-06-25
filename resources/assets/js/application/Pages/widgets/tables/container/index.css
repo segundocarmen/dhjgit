@@ -1,0 +1,25 @@
+table{
+	border: 1px solid #05458F !important;
+}
+table tbody tr{
+	cursor: pointer;
+}
+table thead tr th{
+	background-color: #F1BD2C;
+	color: #05458F;
+}
+table tbody tr td{
+	font-size: 0.9rem;
+	border: 1px solid #fff !important;
+}
+table tbody tr td,table thead tr th{
+	text-align: center !important;
+}
+table tbody tr td.check{
+	padding: 0;
+}
+table tbody tr td input{
+	height: 20px;
+	margin-top: 5px;
+	cursor: pointer;
+}

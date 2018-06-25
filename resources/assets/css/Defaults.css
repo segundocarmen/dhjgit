@@ -1,0 +1,58 @@
+html,body,#app{
+	display: block;
+	height: 100%;
+	background: #fff;
+}
+.jumbotron{
+	background: #fff;
+	padding: 0.5rem 2rem;	
+}
+.pb-4, .py-4{
+	padding-bottom: 0 !important;
+	padding-top: 0 !important;
+}
+.card .card-body{
+	background-color: #fff;
+}
+.card .card-header{
+	padding: .25rem 1.25rem;
+	background-color: #dee2e6;
+}
+.card .card-footer{
+	background-color: #05458F;
+}
+#login{
+	margin-top: 100px;
+}
+#login .card{
+	box-shadow: 2px 2px 3px #3a3a3a;
+}
+#login .card .card-header{
+	background-color: #F1BD2C;
+	color: #fff;
+	font-weight: 700;
+	border-bottom: 1px solid #05458F;
+}
+#login .card .card-body{
+
+}
+#login .card .card-body figure img{
+	display: block;
+	margin: auto;
+}
+#login .card .card-body form button{
+	background-color: #05458F;
+	color: #fff;
+	font-weight: 700;
+}
+h1{
+	color: #05458F;
+	text-align: center;
+	font-size: 2rem;
+}
+form button{
+	margin-right: 10px;
+}
+textarea {
+	resize: none;
+}
